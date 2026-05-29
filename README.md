@@ -18,10 +18,10 @@
 
 | Section | Code | Description |
 |---------|------|-------------|
-| Identity | 2A | User IDs, session IDs, device fingerprints, timestamps |
-| Prompts | 2B | User prompts, AI responses, model versions, generation timing |
-| Security | 2C | Auth tokens, cookies, security telemetry, feature flags |
-| Autonomous | 2D | SSE streams, background polling, telemetry, autonomous AI actions |
+| Identity | A | User IDs, session IDs, device fingerprints, timestamps |
+| Prompts | B | User prompts, AI responses, model versions, generation timing |
+| Security | C | Auth tokens, cookies, security telemetry, feature flags |
+| Autonomous | D | SSE streams, background polling, telemetry, autonomous AI actions |
 
 ---
 
