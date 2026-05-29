@@ -1,9 +1,0 @@
-# HARensic — Dependencies v2.0
-# Install: pip install -r requirements.txt
-
-# Terminal display (optional — stdlib ANSI fallback is built-in)
-rich>=13.0.0
-colorama>=0.4.6
-
-# Excel workbook export
-openpyxl>=3.1.0
